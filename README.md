@@ -2,6 +2,8 @@
 
 ## Infrastructures
 
-#RAM : 4GB 
-#Processeur : 2 coeurs 
-#Version : Debian 11
+<ul>
+  <li>RAM : 4GB</li>
+  <li>Processeur : 2 coeurs</li>
+  <li>Version : Debian 11</li>
+</ul>
