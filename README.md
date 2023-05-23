@@ -2,6 +2,7 @@
 
 ## Infrastructures
 
+<h1> 2 machines :</h1>
 <ul>
   <li>RAM : 4GB</li>
   <li>Processeur : 2 coeurs</li>
