@@ -13,7 +13,7 @@
 
 * Base de données avec 6 colonnes (nom, prénom, date de naissance, adresse, CP, ville)
 * Installation SonarQube et Jenkins
-* Jenkins
+* Microsoft Azure pour la création de machine virtuelle
 
 ## Configuration des VM
 
